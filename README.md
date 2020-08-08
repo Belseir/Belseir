@@ -1,10 +1,10 @@
 <h1 align="center">Belseir</h1>
 
 <h3 align="center">About me</h3>
-- Real Name: Fabricio
-- Age: 16 years old
-- Studying Programming
-- Hobbies: Gaming & watching anime
+<p>- Real Name: Fabricio</p>
+<p>- Age: 16 years old</p>
+<p>- Studying Programming</p>
+<p>- Hobbies: Gaming & watching anime</p>
 
 ### Languages and Tools:-
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" style="max-width:100%;">
