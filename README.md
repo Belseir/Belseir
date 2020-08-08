@@ -1,6 +1,6 @@
 <h1 align="center">Belseir</h1>
 
-<h3 align="center">About me</h3>
+<h3>About me</h3>
 <p>- Real Name: Fabricio</p>
 <p>- Age: 16 years old</p>
 <p>- Studying Programming</p>
