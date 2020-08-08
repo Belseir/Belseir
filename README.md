@@ -21,6 +21,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"/>
 
 ![Belseir's github stats](https://github-readme-stats.vercel.app/api?username=Belseir&theme=radical&show_icons=true&count_private=true)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belseir)](https://github.com/Belseir/github-readme-stats)
 
 <h3>My Waifu:</h3>
