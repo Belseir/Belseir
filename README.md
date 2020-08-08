@@ -1,7 +1,5 @@
 ### Belseir
 
-<br/>
-
 ## About me</h2>
 - Real Name: Fabricio
 - Age: 16 years old
@@ -26,5 +24,3 @@
 
 ### Github Stats:-
 <img align="left" alt="Belseir's Github Stats" src="https://camo.githubusercontent.com/f38dbc430c6c60353a972bebf9ca48d74b82b431/68747470733a2f2f6769746875622d726561646d652d73746174732e636f6465737461636b722e76657263656c2e6170702f6170693f757365726e616d653d636f6465535441434b722673686f775f69636f6e733d7472756526686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.codestackr.vercel.app/api?username=Belseir&amp;show_icons=true&amp;hide_border=true" style="max-width:100%;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belseir)]
