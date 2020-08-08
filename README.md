@@ -1,4 +1,4 @@
-<h1 style="text-align:center">>Belseir</h1>
+<h1 style="text-align:center">Belseir</h1>
 
 ## About me</h2>
 - Real Name: Fabricio
