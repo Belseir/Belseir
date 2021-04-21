@@ -2,7 +2,6 @@
 
 <h3>About me</h3>
 <p>- Real Name: Fabricio</p>
-<p>- Age: 17 years old</p>
 <p>- Studying Programming</p>
 <p>- Hobbies: Gaming & watching anime</p>
 
